@@ -27,12 +27,12 @@ The Python code in this repository performs the following:
 - **Star Schema Conversion**: Converts the data into a **star schema** for easier integration with the Power BI dashboard.
 
 You can find the Python scripts in the `scripts/` directory.
+![image](https://github.com/user-attachments/assets/b30fe865-9472-4e8c-97ea-15a69a1f50f9)
 
 ### Example of running the data transformation:
 Open Jupyter Notebook/Lab
 ```bash
-python scripts/transform_data.py
-```
+pharma_sales_data.ipynb```
 ## :bar_chart: Dashboard
 
 Below is the image of the final Power BI dashboard that showcases the key sales metrics.
